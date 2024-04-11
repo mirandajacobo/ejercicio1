@@ -1,0 +1,10 @@
+.section_1 {
+    max-width: 37.5rem;
+    height: 15rem;
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 3rem 12rem;
+    gap: 10px;
+}
